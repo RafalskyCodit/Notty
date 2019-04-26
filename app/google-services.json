@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "859482089421",
+    "firebase_url": "https://notty-91cb5.firebaseio.com",
+    "project_id": "notty-91cb5",
+    "storage_bucket": "notty-91cb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859482089421:android:fd5a77740017679c",
+        "android_client_info": {
+          "package_name": "com.example.notty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859482089421-vde09o4al4n97l63dp6dhri61o8riuvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFWaIyVRuaPNyWghTE_o9X_d-XxrkYlzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859482089421-vde09o4al4n97l63dp6dhri61o8riuvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
